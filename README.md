@@ -15,7 +15,7 @@ This repository is a fork of suyu, which itself is a fork of yuzu, as suyu is sh
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Rays-Robotics/ruyu/"><img src="https://raw.githubusercontent.com/Rays-Robotics/ruyu-website/237a9dd3ea41b26e49ed59bfc386fe629609af02/ruyu.svg" alt="ruyu" height="128"></a>
+  <a href="https://github.com/Rays-Robotics/ruyu/"><img src="https://raw.githubusercontent.com/Rays-Robotics/ruyu-website/3f9db7daae2b0ca8993fd010860b383a5051648d/ruyunew.svg" alt="ruyu" height="128"></a>
   <br>
   <b>ruyu</b>
   <br>

@@ -5,7 +5,9 @@ SPDX-FileCopyrightText: 2025 ruyu Emulator Project
 SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
-**Note**: We do not support or condone piracy in any form. To use ruyu, you'll need keys from your real Switch system and games that you have legally obtained and paid for. We do not intend to profit from this project.
+**Note**: We do not support or condone piracy in any form. To use ruyu, you'll need keys from your real Switch system and games that you have legally obtained and paid for. We do not intend to profit from this project.ning
+
+**Warning**: We are very early in development. We reccomend using Eden for now.
 
 We're looking for developers! If you're interested in contributing, please join our chat or reach out to a developer.
 

@@ -2,7 +2,7 @@
 SPDX-FileCopyrightText: 2024 suyu Emulator Project
 SPDX-License-Identifier: GPL-3.0-or-later
 -->
-# Migrating from suyu
+# Migrating from suyu... /!\ DO NOT FOLLOW THIS GUIDE! DOING THIS WILL BREAK THE PROGRAM. /!\
 
 When coming from suyu, the migration is as easy as renaming some directories.
 
